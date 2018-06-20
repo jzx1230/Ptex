@@ -1,4 +1,4 @@
-#版本 V1.0
+# 版本 V1.0
 
 # 一、本程序可以使用以下三种方式打开
 
@@ -12,17 +12,17 @@ python3.6 wxpython包（使用方式二、三打开）
 
 打开文件夹点击Menu_im.exe即可运行
 
-![1529121704622](assets/1529121704622.png)
+![1529121704622](https://github.com/Htring/Ptex/blob/master/1529121704622.png)
 
 效果如图：
 
-![1](assets/1.gif)
+![1](https://github.com/Htring/Ptex/blob/master/1.gif)
 
 #2.使用pythonIDE打开
 
 这里使用SubmlimeText软件，打开文件夹中的Menu_im.py文件，正常运行即可。运行如图：
 
-![1529125813115](assets/1529125813115.png)
+![1529125813115](https://github.com/Htring/Ptex/blob/master/1529125813115.png)
 
 其运行结果同方法一打开。
 
