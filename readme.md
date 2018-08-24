@@ -8,7 +8,7 @@ CTex完整版的安装（使用方式一打开，经测试，如果不是完整�
 
 python3.6 wxpython包（使用方式二、三打开）
 
-##1.在win环境下运行
+## 1.在win环境下运行
 
 打开文件夹点击Menu_im.exe即可运行
 
@@ -18,7 +18,7 @@ python3.6 wxpython包（使用方式二、三打开）
 
 ![1](https://github.com/Htring/Ptex/blob/master/1.gif)
 
-#2.使用pythonIDE打开
+## 2.使用pythonIDE打开
 
 这里使用SubmlimeText软件，打开文件夹中的Menu_im.py文件，正常运行即可。运行如图：
 
